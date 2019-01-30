@@ -1,5 +1,5 @@
 {
-    "name": "spatie/crawler",
+    "name": "bradlc/crawler",
     "description": "Crawl all internal links found on a website",
     "homepage": "https://github.com/spatie/crawler",
     "license": "MIT",
